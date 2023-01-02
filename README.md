@@ -1,2 +1,2 @@
 # esp8266-wsHandlerSpedometer
-for speedometer ws server
+for speedometer websocket server
